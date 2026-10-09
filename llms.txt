@@ -1,0 +1,25 @@
+# Billing4ABA
+
+> ABA-only billing, denials, and credentialing for BCBAs — handled with full transparency so you can spend more time with the kids you serve.
+
+Billing4ABA is a new, founder-led revenue-cycle partner built only for Applied Behavior Analysis (ABA) providers, backed by a team with years of ABA billing experience. We help founder-BCBAs, independent clinicians, and small clinic owners with claims, denials, authorizations, credentialing, eligibility, AR cleanup, and weekly reporting.
+
+## Pages
+
+- [Home](https://billing4aba.com/): What we do, pricing, why us, and FAQ.
+- [Services](https://billing4aba.com/services): The ABA revenue cycle in nine stages, from setup and credentialing to stable billing and growth.
+- [About](https://billing4aba.com/about): Why Billing4ABA exists and who is behind it.
+- [Security & HIPAA](https://billing4aba.com/security): BAAs, access controls, encryption, and incident response.
+- [Guides](https://billing4aba.com/blog): Plain-English ABA billing guides.
+
+## Guides
+
+- [ABA Insurance Verification Checklist](https://billing4aba.com/blog/aba-insurance-verification-checklist)
+- [Top 10 CPT Codes to Watch if You're a BCBA Running an ABA Clinic](https://billing4aba.com/blog/top-10-cpt-codes-bcba-clinic)
+- [Why ABA Claims Get Denied](https://billing4aba.com/blog/why-aba-claims-get-denied)
+- [What Is AR in ABA Billing?](https://billing4aba.com/blog/what-is-ar-in-aba-billing)
+- [How Long Does Credentialing Take for an ABA Practice?](https://billing4aba.com/blog/aba-credentialing-timeline)
+
+## Contact
+
+- Book a free 30-minute billing review: https://billing4aba.com/#cta
