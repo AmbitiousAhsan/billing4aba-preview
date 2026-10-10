@@ -1,0 +1,1 @@
+import{s as a,a as n}from"./JourneyContext-B49tBsuc.js";function r(s){const t=a.find(e=>e.n===s);if(!t)throw new Error(`Unknown stage "${s}" — use "1"–"9" (see docs/content-guide.md)`);return{stage:t,act:t.act,style:n[t.act]}}export{r as s};
