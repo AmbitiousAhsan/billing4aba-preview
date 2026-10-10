@@ -1,0 +1,1 @@
+import{c}from"./index-B3I7aNJK.js";const o=[["path",{d:"M20 6 9 17l-5-5",key:"1gmf2c"}]],a=c("check",o);const e=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"M12 6v6l4 2",key:"mmk7yg"}]],k=c("clock",e);export{a as C,k as a};
