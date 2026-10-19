@@ -1,0 +1,1 @@
+import{j as s}from"./index-BNaZktxW.js";import{S as r}from"./visual-kit-CTf_GkuJ.js";import"./check-CvnzLWhA.js";function a(t){return s.jsx(r,{...t,steps:[{t:"Official CPT 2027 guidance",sub:"confirm it first"},{t:"The payer's written answer",sub:"for this payer and product"},{t:"Your systems",sub:"records, claim edits, auths, staff",hot:!0}]})}export{a as default};

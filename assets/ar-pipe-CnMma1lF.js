@@ -1,0 +1,1 @@
+import{j as e}from"./index-BNaZktxW.js";import{S as i}from"./visual-kit-CTf_GkuJ.js";import"./check-CvnzLWhA.js";function a(t){return e.jsx(i,{...t,steps:[{t:"Session delivered",sub:"you've earned it"},{t:"Claim sent",sub:"billed to the payer"},{t:"Waiting on the payer",sub:"this is your AR",hot:!0},{t:"Paid",sub:"collected, finally"}]})}export{a as default};

@@ -1,0 +1,1 @@
+import{j as t,L as o}from"./index-BNaZktxW.js";const e=()=>t.jsxs("div",{className:"mx-auto max-w-2xl px-6 py-24 text-center",children:[t.jsx("h1",{className:"font-display text-3xl",children:"Guide not found."}),t.jsx(o,{to:"/blog",className:"mt-4 inline-block text-coral underline",children:"Back to all guides"})]});export{e as notFoundComponent};
